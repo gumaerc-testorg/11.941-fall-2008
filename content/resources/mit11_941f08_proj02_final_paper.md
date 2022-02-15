@@ -3,8 +3,13 @@ content_type: resource
 description: "Example of student work: a 15 minute audio-visual presentation on comparative\
   \ analysis of the Macy\u2019s Thanksgiving Day Parade in Manhattan and the Ganesh\
   \ Chaturthi festival in Mumbai."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/960f795e3557fd8c18f5c97e4a40597d_MIT11_941f08_proj02_final_paper.pdf
+file: /media/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/960f795e3557fd8c18f5c97e4a40597d_MIT11_941f08_proj02_final_paper.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Humanizing the City: A Comparative Analysis of Festival and the Adaptation
   of Public Space'
