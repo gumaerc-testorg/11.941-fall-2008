@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 75ab7511-a3ba-f59e-7aad-ee5a33dbd640
 resourcetype: Document
 title: 'The Impact of Urban Design Elements on the Successes and Failures of Modern
   Multi-family Housing: A Comparative Study of Robert Taylor Homes, Chicago, and HanGang
