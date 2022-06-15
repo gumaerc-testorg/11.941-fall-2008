@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides topics, due dates, and grading information for
+  the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -35,7 +37,7 @@ PERCENTAGE OF GRADES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Two page research proposal ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn01))
+Two page research proposal ({{% resource_link fcc4a6c2-821f-db4e-5c83-0eb577c42e26 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Due in Ses #3
@@ -50,7 +52,7 @@ Due in Ses #3
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Five-page outline and summary ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn02))
+Five-page outline and summary ({{% resource_link b700d75e-93ba-e703-1dee-6d4d53935fa5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Due in Ses #11
@@ -65,7 +67,7 @@ Due in Ses #11
 3
 {{< tdclose >}}
 {{< tdopen >}}
-15 minute audio-visual presentation ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn03))
+15 minute audio-visual presentation ({{% resource_link ef67890a-b10c-fe58-3329-911d5a33d978 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Due in Ses #24-25
@@ -80,7 +82,7 @@ Due in Ses #24-25
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Twenty-five page final paper ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn04))
+Twenty-five page final paper ({{% resource_link 5fe399e2-2b05-d386-301e-f9f34069d133 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Due at the end of the semester
