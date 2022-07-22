@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Urbanization in Istanbul, Turkey
 uid: 5c0cacab-a04a-1689-da87-a055f6740cc3
 ---
 Urbanization in Istanbul, Turkey. (Image courtesy of erinchcom on flickr.)
-

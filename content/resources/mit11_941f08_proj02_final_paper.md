@@ -7,6 +7,7 @@ file: /courses/11-941-learning-by-comparison-first-world-third-world-cities-fall
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Humanizing the City: A Comparative Analysis of Festival and the Adaptati
 uid: 960f795e-3557-fd8c-18f5-c97e4a40597d
 ---
 Example of student work: a 15 minute audio-visual presentation on comparative analysis of the Macy’s Thanksgiving Day Parade in Manhattan and the Ganesh Chaturthi festival in Mumbai.
-

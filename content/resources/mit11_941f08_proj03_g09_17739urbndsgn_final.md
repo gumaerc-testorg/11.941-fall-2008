@@ -7,6 +7,7 @@ file: /courses/11-941-learning-by-comparison-first-world-third-world-cities-fall
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 'The Impact of Urban Design Elements on the Successes and Failures of Mod
 uid: 11a043e0-0f4f-b7e6-c3ab-3a5e33761156
 ---
 Example of student work for the final research paper assignment of the course. The topic of this paper is the impact of urban design elements on the successes and failures of modern multi-family housing.
-
