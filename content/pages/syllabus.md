@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides and introduction to the course and information
+  on meeting times, prerequisites, objectives, seminar outline, readings, and requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 52a349a0-21f3-92a5-c173-24e0ab719fbe
 ---
