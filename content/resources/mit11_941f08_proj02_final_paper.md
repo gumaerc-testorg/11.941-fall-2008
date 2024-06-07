@@ -4,6 +4,7 @@ description: "Example of student work: a 15 minute audio-visual presentation on 
   \ analysis of the Macy\u2019s Thanksgiving Day Parade in Manhattan and the Ganesh\
   \ Chaturthi festival in Mumbai."
 file: /courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/960f795e3557fd8c18f5c97e4a40597d_MIT11_941f08_proj02_final_paper.pdf
+file_size: 922060
 file_type: application/pdf
 learning_resource_types:
 - Projects
