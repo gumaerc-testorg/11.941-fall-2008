@@ -44,7 +44,7 @@ Globalization and cities
 {{< tdopen >}}
 
 
-Richardson, Harry, and Chang-Hee Bae. "Introduction." In _Globalization and Urban Development_. Berlin, MA: Springer-Verlag, 2005, pp. 31-50. ISBN: 9783540223627. \[{{% resource_link "7c44a12d-b81e-45ef-b778-e48ca13b0daf" "Preview" %}} in Google Books\]
+Richardson, Harry, and Chang-Hee Bae. "Introduction." In _Globalization and Urban Development_. Berlin, MA: Springer-Verlag, 2005, pp. 31-50. ISBN: 9783540223627. \[[Preview](http://books.google.com/books?id=hrBRjxh12XQC&printsec=frontcover&source=gbs_navlinks_s#v=onepage&q=&f=false) in Google Books\]
 
 Marcuse, Peter, and Ronald van Kempen. "Conclusion: A Changed Spatial Order." In _Globalizing Cities: A New Spatial Order?_ Oxford, NY: Blackwell Publishers, 2000, pp. 249-275. ISBN: 9780631212904.
 
@@ -84,7 +84,7 @@ Vidyarthi, Sanjeev. "Literature Review: Siting Appropriations." In _Inappropriat
 Mixing it up: Multicultural cities in history
 {{< tdclose >}}
 {{< tdopen >}}
-Briggs, Xavier de Souza. "{{% resource_link "374481fe-9787-4488-84d1-4c3c9331853e" "Civilization in Color: The Multicultural City in Three Millennia" %}}." _City and Community_ 3, no. 4 (2004): 311-342.
+Briggs, Xavier de Souza. "[Civilization in Color: The Multicultural City in Three Millennia](http://dusp.mit.edu/sites/dusp.mit.edu/files/attachments/publication/XBriggs%20Civilization%20in%20Color%20(Dec2004).pdf)." _City and Community_ 3, no. 4 (2004): 311-342.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -126,7 +126,7 @@ Two page research proposal due
 Comparison as a research methodology
 {{< tdclose >}}
 {{< tdopen >}}
-Ragin, Charles. "The Distinctiveness of Comparative Social Science." In _The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies_. Berkeley, CA: University of California Press, 1989, pp. 1-18. ISBN: 9780520066182. \[{{% resource_link "9c325269-d2b8-4bd0-9283-9a6d912644e3" "Preview" %}} in Google Books\]
+Ragin, Charles. "The Distinctiveness of Comparative Social Science." In _The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies_. Berkeley, CA: University of California Press, 1989, pp. 1-18. ISBN: 9780520066182. \[[Preview](http://books.google.com/books?id=mZi17vherScC&printsec=frontcover&dq=the+comparative+method:+moving+beyond#v=onepage&q=&f=false) in Google Books\]
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -143,9 +143,9 @@ Qualitative and quantitative comparative methods
 {{< tdopen >}}
 
 
-Ragin, Charles. "The Variable-Oriented Approach." In _The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies_. Berkeley, CA: University of California Press, 1989, pp. 53-68. ISBN: 9780520066182. \[{{% resource_link "9c325269-d2b8-4bd0-9283-9a6d912644e3" "Preview" %}} in Google Books\]
+Ragin, Charles. "The Variable-Oriented Approach." In _The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies_. Berkeley, CA: University of California Press, 1989, pp. 53-68. ISBN: 9780520066182. \[[Preview](http://books.google.com/books?id=mZi17vherScC&printsec=frontcover&dq=the+comparative+method:+moving+beyond#v=onepage&q=&f=false) in Google Books\]
 
-Rueschemeyer, Dietrich. "Can One or a Few Cases Yield Theoretical Gains?" In _Comparative Historical Analysis in the Social Sciences_. Edited by James Mahoney and Dietrich Rueschemeyer. Cambridge, UK: Cambridge University Press, 2003, pp. 305-336. ISBN: 9780521016452. \[{{% resource_link "38915356-732f-4e58-91ee-9bf845775e3e" "Preview" %}} in Google Books\]
+Rueschemeyer, Dietrich. "Can One or a Few Cases Yield Theoretical Gains?" In _Comparative Historical Analysis in the Social Sciences_. Edited by James Mahoney and Dietrich Rueschemeyer. Cambridge, UK: Cambridge University Press, 2003, pp. 305-336. ISBN: 9780521016452. \[[Preview](http://books.google.com/books?id=MX1-glHmzeMC&printsec=frontcover&dq=comparative+historical+analysis#v=onepage&q=&f=false) in Google Books\]
 
 
 {{< tdclose >}}
@@ -251,7 +251,7 @@ Cultural analysis
 {{< tdopen >}}
 
 
-Ross, Marc. "Culture and Identity in Comparative Political Analysis." In _Comparative Politics: Rationality, Culture, and Structure_. Edited by Mark Lichbach and Alan Zuckerman. Cambridge, UK: Cambridge University Press, 1997, pp. 42-80. ISBN: 9780521586689. \[{{% resource_link "3524af49-0327-4b88-9a84-b6e97ddb0570" "Preview" %}} in Google Books\]
+Ross, Marc. "Culture and Identity in Comparative Political Analysis." In _Comparative Politics: Rationality, Culture, and Structure_. Edited by Mark Lichbach and Alan Zuckerman. Cambridge, UK: Cambridge University Press, 1997, pp. 42-80. ISBN: 9780521586689. \[[Preview](http://books.google.com/books?id=PhiBit8h2VcC&pg=PP1&dq=comparative+politics:+rationality#v=onepage&q=&f=false) in Google Books\]
 
 Sanyal, Bishwapriya. "Hybrid Planning Cultures: The Search for the Global Cultural Commons." In _Comparative Planning Cultures_. New York, NY: Routledge, 2005, pp. 3-25. ISBN: 9780415951357.
 
@@ -270,7 +270,7 @@ Sanyal, Bishwapriya. "Hybrid Planning Cultures: The Search for the Global Cultur
 Infrastructure and economy
 {{< tdclose >}}
 {{< tdopen >}}
-Graham, Stephen, and Simon Marvin. "Glocal Infrastructure and the Splintering of Urban Economics." In _Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition_. London, UK: Routledge, 2001, pp. 304-377. ISBN: 9780415189651. \[{{% resource_link "c34f0d06-5d68-4480-b11c-32ce48e05ebf" "Preview" %}} in Google Books\]
+Graham, Stephen, and Simon Marvin. "Glocal Infrastructure and the Splintering of Urban Economics." In _Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition_. London, UK: Routledge, 2001, pp. 304-377. ISBN: 9780415189651. \[[Preview](http://books.google.com/books?id=JA9dNAR5evEC&printsec=frontcover&dq=splintering+urbanism#v=onepage&q=&f=false) in Google Books\]
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -306,7 +306,7 @@ Inam, Aseem. "Planning for the Unplanned." Chapter 1 in _Planning for the Unplan
 Programs
 {{< tdclose >}}
 {{< tdopen >}}
-Tinker, Irene. "{{% resource_link "70368de8-cad1-4cee-887a-3646d3aa7639" "Alleviating Poverty: Investing in Women's Work" %}}." _Journal of the American Planning Association_ 66, no. 3 (2000): 229-242.
+Tinker, Irene. "[Alleviating Poverty: Investing in Women's Work](http://www.informaworld.com/smpp/content~db=all~content=a787387863)." _Journal of the American Planning Association_ 66, no. 3 (2000): 229-242.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -372,7 +372,7 @@ Simmons, Craig. "Ecological Footprint Analysis: A Useful Method for Exploring th
 Understanding cities comparatively
 {{< tdclose >}}
 {{< tdopen >}}
-Pacione, Michael. "Land Use in the City," and "Internal Structure of Third World Cities." Chapters 7 and 22 in _Urban Geography: A Global Perspective_. London, UK: Routledge, 2009, pp. 131-156 and pp. 447-460. ISBN: 9780415462020. \[{{% resource_link "f6971dbc-d938-4adf-9a6c-3fc87bdac211" "Preview" %}} in Google Books\]
+Pacione, Michael. "Land Use in the City," and "Internal Structure of Third World Cities." Chapters 7 and 22 in _Urban Geography: A Global Perspective_. London, UK: Routledge, 2009, pp. 131-156 and pp. 447-460. ISBN: 9780415462020. \[[Preview](http://books.google.com/books?id=M3rAuvR-o-gC&pg=PA9&dq=urban+geography:+a+global#v=onepage&q=&f=false) in Google Books\]
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -402,7 +402,7 @@ Cervero, Robert. "Informal Transit: Learning from the Developing World." _Access
 Informational technology and spatial structures
 {{< tdclose >}}
 {{< tdopen >}}
-Sohn, Jungyul, Tschango Kim, and Geoffrey Hewings. "{{% resource_link "29950402-92b2-4849-a037-9fe1a9d49d8c" "Information Technology and Urban Spatial Structure: A Comparative Analysis of Chicago and Seoul Regions" %}}." _The Annals of Regional Science_ 37, no. 3 (2003): 447-462.
+Sohn, Jungyul, Tschango Kim, and Geoffrey Hewings. "[Information Technology and Urban Spatial Structure: A Comparative Analysis of Chicago and Seoul Regions](https://link.springer.com/article/10.1007/s00168-003-0164-7)." _The Annals of Regional Science_ 37, no. 3 (2003): 447-462.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -499,7 +499,7 @@ No readings
 Research insights through explanation and theory
 {{< tdclose >}}
 {{< tdopen >}}
-Zuckerman, Alan. "Reformulating Explanatory Standards and Advancing Theory in Comparative Politics." In _Comparative Politics: Rationality, Culture, and Structure_. Edited by Mark Lichbach and Alan Zuckerman. Cambridge UK: Cambridge University Press, 1997, pp. 277-310. ISBN: 9780521586689. \[{{% resource_link "3524af49-0327-4b88-9a84-b6e97ddb0570" "Preview" %}} in Google Books\]
+Zuckerman, Alan. "Reformulating Explanatory Standards and Advancing Theory in Comparative Politics." In _Comparative Politics: Rationality, Culture, and Structure_. Edited by Mark Lichbach and Alan Zuckerman. Cambridge UK: Cambridge University Press, 1997, pp. 277-310. ISBN: 9780521586689. \[[Preview](http://books.google.com/books?id=PhiBit8h2VcC&pg=PP1&dq=comparative+politics:+rationality#v=onepage&q=&f=false) in Google Books\]
 {{< tdclose >}}
 {{< tdopen >}}
  
